@@ -1,5 +1,8 @@
-# AngusCow.github.io
 <h1>Hi, I'm Angus! <br/>
+
+I'm a grade 11 student
+
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
