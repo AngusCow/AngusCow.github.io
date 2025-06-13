@@ -42,6 +42,7 @@ Every Friday during club time, we would set up online meetings with the school w
 We will then have one-on-one sessions with the kids to make sure they find their own pace as they take the courses on Discovery Education.
 For kids in grade 6, we will make projects together on a topic they're interested.
 Overall, seeing these kids learn to program is a pretty fun experience.
+![Image](https://github.com/user-attachments/assets/b85887a6-f84f-4b4d-824d-95d2f6275210)
 
 <h3>Funraising (2017-2025)</h3>
 
