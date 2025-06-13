@@ -8,11 +8,20 @@ Next year, I'll be taking Multivariable Calculus, Business, and AP Physics C E&M
 
 <h3>Internship: Anselm Inc. (2023)</h3>
 
-During the August of 2023, I had an internship at Anselm Inc. for two weeks. 
-I worked on cybersecurity certificates from Forescout Technology.
-I took online courses from Forescout to learn and understand the product.
+During the August of 2023, I had an internship at Anselm Inc. with a classmate for two weeks. 
+We worked on cyber security certificates from Forescout Technology.
+For the first week, we took lectures about cyber security from our manager to gain basic understanding of the topic.
+After then, we took online courses from Forescout to learn and understand their cyber security product.
 By the end of the second week, I completed the Forescout's online exam and recieved a engineer certificate and sales certificate.
 
-<h3>Competition: URC 2024</h3>
+<h3>Competition: URC Australia 2024 (2024)</h3>
 
+Me and my classmate competed in the Universal Robotics Competition hosted in Australia in late 2024. 
+We are competing through a robotic system called Artec.
+Starting from July, we started to prepare for the competition. 
+We came up with several different strategies, built different robots, and wrote programs for each of them. 
+The process took a lot of time and trials, and many turned out to not work.
+But in the end, we still managed to win the first place in the competition.
+
+<h3>Voluenteer: Online Teaching (2024-2026)</h3>
 
