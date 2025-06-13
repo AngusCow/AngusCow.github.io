@@ -35,6 +35,12 @@ But in the end, we still managed to win the first place in the competition.
   
 <h3>Online Teaching (2024-2026)</h3>
 
+I joined a digital volunteer club hosted by my friend in 2024.
+The goal of this club is to teach children from rural area how to program.
+Every Friday during club time, we would set up online meetings with the school we collaborate with. 
+We will then have one-on-one sessions with the kids to make sure they find their own pace as they take the courses on Discovery Education.
+For kids in grade 6, we will make projects on a topic they're interested.
+
 <h3>Funraising (2017-2025)</h3>
 
 <h2>Others:</h2>
