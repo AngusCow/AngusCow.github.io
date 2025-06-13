@@ -13,6 +13,7 @@ We worked on cyber security certificates from Forescout Technology.
 For the first week, we took lectures about cyber security from our manager to gain basic understanding of the topic.
 After then, we took online courses from Forescout to learn and understand their cyber security product.
 By the end of the second week, I completed the Forescout's online exam and recieved a engineer certificate and sales certificate.
+![Image](https://github.com/user-attachments/assets/683510e0-263b-4f1e-bb57-881e5a6fef78)
 
 <h3>Competition: URC Australia 2024 (2024)</h3>
 
