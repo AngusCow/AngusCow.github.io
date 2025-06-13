@@ -54,3 +54,5 @@ For kids in grade 6, we will make projects on a topic they're interested.
 <h3>Cheng Kung University STEM Summer Camp (2023)</h3>
 
 <h3>Guitar (2020-2025)</h3>
+
+<h3>KCMUN (2023, 2025)</h3>
