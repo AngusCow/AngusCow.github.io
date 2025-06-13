@@ -29,7 +29,7 @@ We came up with several different strategies, built different robots, and wrote 
 The process took a lot of time and trials, and many turned out to not work.
 But in the end, we still managed to win the first place in the competition.
 
-<h3>Aretec Robotics (2016-2024)</h3>
+<h3>Artec Robotics (2016-2024)</h3>
 
 <h2>Volunteer:</h2>
   
