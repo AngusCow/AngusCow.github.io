@@ -14,6 +14,7 @@ For the first week, we took lectures about cyber security from our manager to ga
 After then, we took online courses from Forescout to learn and understand their cyber security product.
 By the end of the second week, I completed the Forescout's online exam and recieved a engineer certificate and sales certificate.
 ![Image](https://github.com/user-attachments/assets/683510e0-263b-4f1e-bb57-881e5a6fef78)
+![Image](https://github.com/user-attachments/assets/9d33f540-a825-442b-bb41-2fd12923a7c1)
 
 <h3>Anselm Inc. (2025)</h3>
 
